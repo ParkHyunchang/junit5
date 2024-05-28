@@ -1,4 +1,4 @@
-package me.hyunhcang.junitjavatest;
+package me.hyunchang.junitjavatest;
 
 public class Study {
 

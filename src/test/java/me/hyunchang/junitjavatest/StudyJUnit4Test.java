@@ -1,4 +1,4 @@
-package me.hyunhcang.junitjavatest;
+package me.hyunchang.junitjavatest;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,12 +1,9 @@
-package me.hyunhcang.junitjavatest;
+package me.hyunchang.junitjavatest;
 
-import jdk.jfr.Threshold;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.AfterTestExecutionCallback;
 import org.junit.jupiter.api.extension.BeforeTestExecutionCallback;
 import org.junit.jupiter.api.extension.ExtensionContext;
 
-import java.lang.annotation.Annotation;
 import java.lang.reflect.Method;
 
 public class FindSlowTestExtension implements BeforeTestExecutionCallback, AfterTestExecutionCallback {

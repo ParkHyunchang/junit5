@@ -1,4 +1,4 @@
-package me.hyunhcang.junitjavatest;
+package me.hyunchang.junitjavatest;
 
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
